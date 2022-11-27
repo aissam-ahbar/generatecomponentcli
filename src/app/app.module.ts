@@ -5,6 +5,8 @@ import { AppComponent } from './app.component';
 
 @NgModule({
   declarations: [AppComponent],
+
+  // To import any module dependency, please add it to import list !
   imports: [
     /**
      *  Included by default in all Angular apps created with the CLI ng new.
