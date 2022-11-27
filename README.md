@@ -4,7 +4,7 @@ ng generate component mycomp
 
 # Generate a service with Angular CLI
 
-ng generae service myservice
+ng generate service myservice
 
 # Generate a module with Angular CLI
 
