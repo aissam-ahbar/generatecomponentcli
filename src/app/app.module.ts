@@ -6,8 +6,7 @@ import { MycompComponent } from './mycomp/mycomp.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    MycompComponent
+    AppComponent
   ],
   imports: [
     BrowserModule
